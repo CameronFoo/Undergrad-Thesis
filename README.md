@@ -22,9 +22,9 @@ This repository contains my undergraduate thesis (PDF), the LaTeX source files, 
 
 \## Data
 
-This project uses public data from \[NAME OF DATABASE].  
+This project uses public data from \Overseas companies ownership data (OCOD).  
 
-Download it from: \[LINK TO DATASET]  
+Download it from: \https://use-land-property-data.service.gov.uk/#ocod 
 
 Then place it in the `data/` folder before running the R scripts.
 
