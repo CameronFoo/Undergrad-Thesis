@@ -1,4 +1,4 @@
-\# Undergraduate Thesis
+# The London Laundromat: The Effects of Transparency on The London Offshore Property Market
 
 
 
@@ -6,7 +6,7 @@ This repository contains my undergraduate thesis (PDF), the LaTeX source files, 
 
 
 
-\## Contents
+## Contents
 
 \- `thesis.pdf`: Final submitted dissertation
 
@@ -20,7 +20,7 @@ This repository contains my undergraduate thesis (PDF), the LaTeX source files, 
 
 
 
-\## Data
+## Data
 
 This project uses public data from \Overseas companies ownership data (OCOD).  
 
@@ -30,10 +30,9 @@ Then place it in the `data/` folder before running the R scripts.
 
 
 
-\## How to reproduce
+## How to reproduce
 
 1\. Install R (>= 4.x).
-
 2\. Install required packages:
 
 &nbsp;  ```r
