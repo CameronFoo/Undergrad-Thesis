@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+_build/
+
+# Raw data
+data-raw/
+
+# OS files
+.DS_Store
+Thumbs.db
